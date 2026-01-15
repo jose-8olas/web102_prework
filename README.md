@@ -1,8 +1,8 @@
-# WEB102 Prework - *Game Website*
+# WEB102 Prework - *Sea Monster*
 
 Submitted by: **Jose Olascoaga**
 
-**Game Website** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **2** hours spent in total
 
